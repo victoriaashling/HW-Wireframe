@@ -1,2 +1,3 @@
-# HW-Wireframe
-Homework for Class 1.2
+# Wireframe
+
+This is a simple wirefram created to given specifications. I have created it once using CSS Grid, and once using floats.
